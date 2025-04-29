@@ -1,7 +1,7 @@
 # Sales-Performance-Analysis
 Analyze sales performance data using Power BI to gain insights into order trends, revenue, and customer contributions. Dynamic dashboards provide an overview, segment/category analysis, and detailed insights, helping stakeholders make data-driven decisions to optimize operations and improve customer satisfaction.
 
-<img src="Sales performance Dashboard.png" width="1000" height="500" />
+<img src="Sales performance Dashboard.png"/>
 
 ## Features
 - **Monthly Order Count**: Displays the number of orders for each month.
@@ -10,3 +10,5 @@ Analyze sales performance data using Power BI to gain insights into order trends
 - **Top 10 Customers by Sale**: Lists the top 10 customers based on total sales amount.
 - **Top 10 Customers by Profit**: Lists the top 10 customers based on total profit amount.
 - **Top 10 Products by Profit**: Lists the top 10 products based on total profit amount.
+
+  
