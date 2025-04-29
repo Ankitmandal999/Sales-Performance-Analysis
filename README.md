@@ -11,4 +11,11 @@ Analyze sales performance data using Power BI to gain insights into order trends
 - **Top 10 Customers by Profit**: Lists the top 10 customers based on total profit amount.
 - **Top 10 Products by Profit**: Lists the top 10 products based on total profit amount.
 
-  
+  ## Slicers
+  The dashboard includes four slicers to filter the data:
+  * Year
+  * Year - Quartes
+  * Product Sub-Category
+  * Order Priority
+
+   <img src="Slicers.png"/> 
