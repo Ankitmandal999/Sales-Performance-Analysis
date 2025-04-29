@@ -23,20 +23,26 @@ Analyze sales performance data using Power BI to gain insights into order trends
   ## Visual Elements
 
 **1. Monthly Order Count**
+
    <img src="Monthly Order Count.png"/>
 
 **2. Sales By Segment & Category**
+
    <img src="Sales By Segment & Category.png"/>
 
 **3. Monthly Sales Trend**
+
    <img src="Monthly Sales Trend.png"/>
 
 **4. Top 10 Customers by Sale**
+
   <img src="Top 10 Customers By Sales.png"/>
 
 **5. Top 10 Customers by Profit**
+
 <img src="Top 10 Customers By Profit.png"/>
 
 **6. Top 10 Products by Profit**
+
 <img src="Top 10 Products By Profit.png"/>
 
